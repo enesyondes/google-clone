@@ -1,0 +1,73 @@
+/* renk kısmı */
+.red {
+    color: #EC0707;
+}
+
+.blue {
+    color: #1A81F3;
+}
+
+.green {
+    color: #01B80D;
+}
+
+.yellow {
+    color: #F4CE0B;
+}
+
+.bg-color1 {
+    background-color:#EEEEEE;
+}
+
+.bg-color2 {
+    background-color: #7EE5DA;
+}
+/* ************************************************************************** */
+
+
+/* blok kısmı */
+div {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.mt {
+    margin-top: 100px;
+}
+
+.mr {
+    margin-right: 100px;
+}
+
+.ml {
+    margin-left: 100px;
+}
+
+.mb {
+    margin-bottom: 100px;
+}
+
+.google-text {
+    margin-top: 190px;
+    font-size: 100px;
+}
+/* *********************************************************************************** */
+
+
+/* font ve biçim kısmı */
+a {
+     font-family: Sans-serif; 
+}
+
+.paragraf {
+    color:rgb(165, 157, 42);
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.baslik {
+    font-family: 'Mouse Memoirs', sans-serif;
+    color:red;
+}
